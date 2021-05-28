@@ -1,0 +1,7 @@
+{
+    "typings": "typings/",
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es2017"
+    }
+}
